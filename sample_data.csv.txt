@@ -1,0 +1,7 @@
+Customer_ID,Customer_Name,Month,Product_A_Sales,Product_B_Sales,City
+C001,Rahul Sharma,January,120,100,Mumbai
+C002,Priya Patel,February,150,130,Delhi
+C003,Amit Verma,March,170,160,Bangalore
+C004,Neha Singh,April,200,180,Chennai
+C005,Arjun Mehta,May,220,210,Pune
+C006,Kavita Iyer,June,250,230,Kolkata
