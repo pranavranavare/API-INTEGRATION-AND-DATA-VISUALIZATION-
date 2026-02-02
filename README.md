@@ -1,4 +1,4 @@
-# API-INTEGRATION-AND-DATA-VISUALIZATION-
+# 1.API-INTEGRATION-AND-DATA-VISUALIZATION-
 "COMPANY" : CODTECH IT SOLUTIONS
 
 "NAME": Pranav Chandrakant Ranavare
@@ -23,6 +23,9 @@
 
 
 
-# AUTOMATED REPORT GENERATION
+# 2.AUTOMATED REPORT GENERATION
 ## Output
+
 <img width="809" height="322" alt="Image" src="https://github.com/user-attachments/assets/3ea428d3-2ce5-42a7-a3e0-f24bd6e89101" />
+
+<img width="878" height="890" alt="Image" src="https://github.com/user-attachments/assets/cb5e127b-7d6d-49e5-a3d8-d919d01c7493" />
