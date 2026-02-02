@@ -23,3 +23,6 @@
 
 
 
+# AUTOMATED REPORT GENERATION
+## Output
+<img width="809" height="322" alt="Image" src="https://github.com/user-attachments/assets/3ea428d3-2ce5-42a7-a3e0-f24bd6e89101" />
