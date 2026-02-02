@@ -22,6 +22,4 @@
 <img width="1554" height="889" alt="Image" src="https://github.com/user-attachments/assets/b08dbc05-3b25-4789-a28d-eb6c4d7df49f" />
 
 
-# AUTOMATED REPORT GENERATION
-## Output
 
