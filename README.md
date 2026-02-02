@@ -20,3 +20,8 @@
 <img width="1520" height="858" alt="Image" src="https://github.com/user-attachments/assets/4db01b5a-4fcf-4ef4-847a-38e8d800e1c0" />
 
 <img width="1554" height="889" alt="Image" src="https://github.com/user-attachments/assets/b08dbc05-3b25-4789-a28d-eb6c4d7df49f" />
+
+
+# AUTOMATED REPORT GENERATION
+## Output
+
